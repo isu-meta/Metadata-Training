@@ -9,9 +9,7 @@ Create metadata for the three materials linked below, using the [metadata templa
 Materials To Catalog
 --------------------
 
-1. [EBook from Project Gutenberg](https://www.gutenberg.org/files/51660/51660-h/51660-h.htm)
-2. [Photograph 1](04-08-J_CampusScenes_0332-05-002-3.jpg)
-3. [Photograph 2](24-03-A_OtopalikHugo_1775-004-001.jpg)
+1. [EBook from Project Gutenberg](http://www.gutenberg.org/files/51660/51660-h/51660-h.htm)
 
 Supplemental Resources
 ----------------------
