@@ -1,5 +1,5 @@
-Metadata Session 11: Putting It All Together
-============================================
+Metadata Session 12: Putting It All Together, Round 2
+=====================================================
 
 Instructions
 ------------
