@@ -4,7 +4,7 @@ Metadata Session 11: Putting It All Together
 Instructions
 ------------
 
-Create metadata for the materials linked below, using the [metadata template](universityPhotographsTemplate.xslx). The annotations below should be added under the "Annotation" field, without quotation marks. The annotations supply information that can be used in other fields. The supplemental resources will give you guidelines on creating metadata, as well as supply additional information that might be useful.
+Create metadata for the materials linked below, using the [metadata template](universityPhotographsTemplate.xlsx). The annotations below should be added under the "Annotation" field, without quotation marks. The annotations supply information that can be used in other fields. The supplemental resources will give you guidelines on creating metadata, as well as supply additional information that might be useful.
 
 You are not expected to input metadata for the field/columns marked light brown in the template. However, if you feel like trying your hand at these, feel free to do so.
 
